@@ -10,13 +10,13 @@ My web site: https://klemeragm.github.io/my-cv/
 
 - Database Oracle OCI 2023 Fundamentals and OCP 19c of @Oracle
 
-### 🌱 I’m currently learning: ...
+### 🌱 I’m currently learning:
 
 - I am learning PL/SQL and Databse Oracle at @DBAOCM Education (On linkedin) 
 - I had learning Front-End with @websaty of @adriana.saty
 - I had leraning C# with @shirleyrios12
 
-### 👯 I’m looking to collaborate on ...
+### 👯 I’m looking to collaborate on:
 
 - My Final works with in https://www.github.com/klemeragm/lda-working/
 
@@ -37,9 +37,7 @@ My web site: https://klemeragm.github.io/my-cv/
 
 - I have preferer play Board Games as PC games today, depends of game. 
 
-
-
-
+So, this my resume and my projects. My informations, contact me in linkedin or e-mails.
 
 
 
