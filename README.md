@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 📫 How to reach me:
-My web site: https://klemeragm.github.io/my-cv/
+- My web site: https://klemeragm.github.io/my-cv/
 - Or reach me in my linkedin: https://www.linkedin.com/in/klemermonteiro/. 
 
 ### 🔭 I’m currently working on:
