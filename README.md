@@ -14,7 +14,7 @@
 
 - I am learning PL/SQL and Databse Oracle at @DBAOCM Education (On linkedin) 
 - I had learning Front-End with @websaty of @adriana.saty
-- I had leraning C# with @shirleyrios12
+- I had learning C# with @shirleyrios12
 
 ### 👯 I’m looking to collaborate on:
 
