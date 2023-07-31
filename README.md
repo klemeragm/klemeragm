@@ -26,8 +26,6 @@
 - With projects in my graduation and my papers: http://r1.ufrrj.br/nuesgames/artigos.php
 - http://r1.ufrrj.br/nuesgames/Klemer1.pdf - About use of non-functional requirements using NFR Framework to produce MOBA and MMORPG games. 
 
- 
-
 ### ⚡ Fun fact: 
 
 - I was a FIFA volunteer in 2013 and 2014 -- 
@@ -39,6 +37,9 @@
 - I have preferer play Board Games as PC games today, depends of game. 
 
 So, this my resume and my projects. My informations, contact me in linkedin or e-mails.
+
+![Klemer Github Stats](https://github-readme-stats.vercel.app/api?username=klemeragm&show_icons=true&theme=radical) 
+
 
 <!--
 **klemeragm/klemeragm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
