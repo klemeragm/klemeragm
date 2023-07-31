@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there I am Klemer Monteiro 👋
 
 ### 📫 How to reach me:
 - My web site: https://klemeragm.github.io/my-cv/
-- Or reach me in my linkedin: https://www.linkedin.com/in/klemermonteiro/. 
+- Or reach me in my linkedin: https://www.linkedin.com/in/klemermonteiro/
+- My academic resume - lattes: https://lattes.cnpq.br/2886948438566254
 
 ### 🔭 I’m currently working on:
  
@@ -25,7 +26,7 @@
 - With projects in my graduation and my papers: http://r1.ufrrj.br/nuesgames/artigos.php
 - http://r1.ufrrj.br/nuesgames/Klemer1.pdf - About use of non-functional requirements using NFR Framework to produce MOBA and MMORPG games. 
 
-- My academic resume - lattes: https://lattes.cnpq.br/2886948438566254 
+ 
 
 ### ⚡ Fun fact: 
 
@@ -38,9 +39,6 @@
 - I have preferer play Board Games as PC games today, depends of game. 
 
 So, this my resume and my projects. My informations, contact me in linkedin or e-mails.
-
-
-
 
 <!--
 **klemeragm/klemeragm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
