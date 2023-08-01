@@ -36,28 +36,23 @@
 
 - I have preferer play Board Games as PC games today, depends of game. 
 
-So, this my resume and my projects. My informations, contact me in linkedin or e-mails.
 
 ![Klemer Github Stats](https://github-readme-stats.vercel.app/api?username=klemeragm&show_icons=true&theme=radical) 
 
 ### Tecnologies that I used to: 
-<html>
- <body>
-<div style="display: inline_block><br/>
-<img align="center" alt="html5" scr=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white 
-</div>
-<div style="display: inline_block><br/>
- <img align="center" alt="css3" scr=[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-</div>
- <div style="display: inline_block><br/>
-<img align="center" alt="python" scr=[[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
- </div>
-<div style="display: inline_block><br/>
-<img align="center" alt="javascript" scr=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-</div>
-</body>
-</html>
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <br/> 
+<img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 
+### Studying Databases: 
+<img align="center" alt="javascript" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"><a href=https://catalog-education.oracle.com/pls/certview/sharebadge?id=108D05D3FAD82E8E6D8AB7A8B5BF76E6CF24903141D508AA36CE495502FEF76C rel="noopener" target="_blank"> OCI 2023 Credential</a>  
+</div>
+
+So, this my resume and my projects. Contact me on linkedin or e-mails.
 
 <!--
 **klemeragm/klemeragm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
