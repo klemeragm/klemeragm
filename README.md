@@ -49,10 +49,12 @@
 <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 
 ### Studying Databases: 
-<img align="center" alt="javascript" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"><a href=https://catalog-education.oracle.com/pls/certview/sharebadge?id=108D05D3FAD82E8E6D8AB7A8B5BF76E6CF24903141D508AA36CE495502FEF76C rel="noopener" target="_blank"> OCI 2023 Credential</a>  
+<img align="center" alt="javascript" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/><a href=https://catalog-education.oracle.com/pls/certview/sharebadge?id=108D05D3FAD82E8E6D8AB7A8B5BF76E6CF24903141D508AA36CE495502FEF76C rel="noopener" target="_blank">OCI 2023 Credential</a> 
 </div>
-
 So, this my resume and my projects. Contact me on linkedin or e-mails.
+
+
+
 
 <!--
 **klemeragm/klemeragm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
