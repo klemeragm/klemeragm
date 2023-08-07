@@ -6,7 +6,7 @@
 - My academic resume - lattes: https://lattes.cnpq.br/2886948438566254
 
 ![Klemer Github Stats](https://github-readme-stats.vercel.app/api?username=klemeragm&show_icons=true&theme=radical) 
-![@klemeragm Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klemeragm&theme=radical&langs_count=10)
+![@klemeragm Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klemeragm&layout=compact&theme=radical&langs_count=10)
 
 ### Tecnologies that I used y my day: 
 <div style="display: inline_block"><br/>
