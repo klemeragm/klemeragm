@@ -31,9 +31,9 @@
 
 ### 🌱 I’m currently learning:
 
-- I am learning PL/SQL and Databse Oracle at @DBAOCM Education (On linkedin) 
-- I had learning Front-End with @websaty of @adriana.saty
-- I had learning C# with @shirleyrios12
+- I am learning PL/SQL and Databse Oracle at <a href="https://www.linkedin.com/in/dbaocm" rel="noopener,noreferrer" target="_blank">@DBAOCM Education</a> (On linkedin) 
+- I had learning Front-End with @websaty of <a href="https://www.github.com/adriana.saty" rel="noopener,noreferrer" target="_blank">@adriana.saty</a>
+- I had learning C# with <a href="https://www.github.com/shirleyR12" rel="noopener,noreferrer" target="_blank">@shirleyrrios</a>
 
 ### 👯 I’m looking to collaborate on:
 
