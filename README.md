@@ -2,7 +2,7 @@
 
 ### 📫 How to reach me:
 - My web site: https://klemeragm.github.io/my-cv/
-- Or reach me in my linkedin: https://www.linkedin.com/in/klemer-monteiro/
+- Or reach me on my LinkedIn: https://www.linkedin.com/in/klemer-monteiro/ <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/
 - My academic resume - lattes: https://lattes.cnpq.br/2886948438566254
 
 ![Klemer Github Stats](https://github-readme-stats.vercel.app/api?username=klemeragm&show_icons=true&theme=radical) 
@@ -22,7 +22,6 @@
  ### 🔭 I’m currently working on:
  
 - Python personal projects and front-end projects. 
-
 - Database Oracle OCI 2023 Fundamentals and OCP 19c of @Oracle
 
 ### Studying Databases: 
@@ -34,12 +33,12 @@
 ### 🌱 I’m currently learning:
 
 - I am learning SQL & PL/SQL and Database Oracle at <a href="https://www.linkedin.com/in/dbaocm" rel="noopener,noreferrer" target="_blank">@DBAOCM Education</a> (On Linkedin) 
-- I had learning Front-End with @websaty of <a href="https://www.github.com/adriana.saty" rel="noopener,noreferrer" target="_blank">@adriana.saty</a>
+- I had learning Front-End with @websaty of <a href="https://github.com/AdrianaSaty" rel="noopener,noreferrer" target="_blank">@adriana.saty</a>
 - I had learning C# with <a href="https://www.github.com/shirleyR12" rel="noopener,noreferrer" target="_blank">@shirleyrrios</a>
 
 ### 👯 I’m looking to collaborate on:
 
-- My Final works with in https://www.github.com/klemeragm/lda-working/
+- My Final works within https://www.github.com/klemeragm/lda-working/
 
 - My resume and other projects can been viewed here: https:klemeragm.github.io/my-cv/ and the code here is: https://www.github.com/klemeragm/my-cv/
 
