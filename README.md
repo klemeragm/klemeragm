@@ -20,42 +20,43 @@
 
 
  ### 🔭 I’m currently working on:
- 
-- Python personal projects and front-end projects. 
-- Database Oracle OCI 2023 Fundamentals and OCP 19c of @Oracle
+- SQL and projecting Fullstack projects with a focus on Back-end.
+- Python personal projects and LLM projects with @OPENAI apis and LLM programming. 
+- And other collaborating projects.
 
 ### Studying Databases: 
 <div style="display: inline_block"><br/>
+<p>- Database Oracle OCI 2023 Fundamentals and OCP 19c of @Oracle</p>
 <img align="center" alt="Oracle OCI" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 <a href=https://catalog-education.oracle.com/pls/certview/sharebadge?id=108D05D3FAD82E8E6D8AB7A8B5BF76E6CF24903141D508AA36CE495502FEF76C rel="noopener,noreferrer" target="_blank"> OCI 2023 Credential</a> 
 </div> 
 
 ### 🌱 I’m currently learning:
 
-- I am learning SQL & PL/SQL and Database Oracle at <a href="https://www.linkedin.com/in/dbaocm" rel="noopener,noreferrer" target="_blank">@DBAOCM Education</a> (On Linkedin) 
-- I had learning Front-End with @websaty of <a href="https://github.com/AdrianaSaty" rel="noopener,noreferrer" target="_blank">@adriana.saty</a>
+- I learning SQL & PL/SQL and Database Oracle at <a href="https://www.linkedin.com/in/dbaocm" rel="noopener,noreferrer" target="_blank">@DBAOCM Education</a> (On Linkedin) 
+- I have learning Front-End with @websaty of <a href="https://github.com/AdrianaSaty" rel="noopener,noreferrer" target="_blank">@adriana.saty</a>
 - I had learning C# with <a href="https://www.github.com/shirleyR12" rel="noopener,noreferrer" target="_blank">@shirleyrrios</a>
 
 ### 👯 I’m looking to collaborate on:
 
 - My Final works within https://www.github.com/klemeragm/lda-working/
 
-- My resume and other projects can been viewed here: https:klemeragm.github.io/my-cv/ and the code here is: https://www.github.com/klemeragm/my-cv/
+- My resume and other projects can be viewed here: https:klemeragm.github.io/my-cv/ and the code here is: https://www.github.com/klemeragm/my-cv/
 
 - With projects in my graduation and my papers: http://r1.ufrrj.br/nuesgames/artigos.php
-- http://r1.ufrrj.br/nuesgames/Klemer1.pdf - About use of non-functional requirements using NFR Framework to produce MOBA and MMORPG games. 
+- http://r1.ufrrj.br/nuesgames/Klemer1.pdf - About the use of non-functional requirements using NFR Framework to produce MOBA and MMORPG games. 
 
 ### ⚡ Fun fact: 
 
 - I was a FIFA volunteer in 2013 and 2014 -- 
 
-- I was a participant of @meta META INNOVATION DAY. This a incredible experience
+- I was a participant of @meta META INNOVATION DAY. This an incredible experience
 
-- I am like to get out of Waterfalls, beaches and pools parties
+- I like to get out of Waterfalls, beaches and pools parties
 
-- I have preferer play Board Games as PC games today, depends of game. 
+- I preferer play Board Games as PC games today, depends of the game. 
 
-So, this my resume and my projects. Contact me on linkedin or e-mails.
+If you desire, contact me on LinkedIn or by e-mail.
 
 
 
