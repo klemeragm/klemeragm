@@ -19,9 +19,10 @@
 </p></div>
 
 
- ### 🔭 I’m currently working on:
-- SQL and projecting Fullstack projects with a focus on Back-end.
-- Python personal projects and LLM projects with @OPENAI apis and LLM programming. 
+ ### 🔭 I’m have been studiyng to work on:
+- MLOPS to apply with Generative AI;
+- SQL and projecting Fullstack projects with a focus on Back-end;
+- Python personal projects and LLM projects with @OPENAI apis and LLM programming; 
 - And other collaborating projects.
 
 ### Studying Databases: 
