@@ -18,7 +18,7 @@
 <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p></div> 
 -->
- ### 🔭 I’m have been studiyng to work on:
+ ### 🔭 I have been studying to work on:
 - MLOPS to apply with Generative AI;
 - SQL and projecting Fullstack projects with a focus on Back-end;
 - Python personal projects and LLM projects with @OPENAI API's and LLM programming; 
@@ -36,8 +36,6 @@
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=7EC2388C429CC07635559C27A693E5F6147C8309B64378BBB3EE4184334FDDD2" rel="noopener,noreferrer" target="_blank">OCI AI 2023 Credential</a> 
 </div> 
 
-
-
 ### 🌱 I’m currently learning:
 
 - I learning SQL & PL/SQL and Database Oracle at <a href="https://www.linkedin.com/in/dbaocm" rel="noopener,noreferrer" target="_blank">@DBAOCM Education</a> (On Linkedin) 
@@ -53,6 +51,8 @@
 - With projects in my graduation and my papers: http://r1.ufrrj.br/nuesgames/artigos.php
 - http://r1.ufrrj.br/nuesgames/Klemer1.pdf - About the use of non-functional requirements using NFR Framework to produce MOBA and MMORPG games. 
 
+<!--
+
 ### ⚡ Fun fact: 
 
 - I was a FIFA volunteer in 2013 and 2014 -- 
@@ -63,9 +63,7 @@
 
 - I preferer play Board Games as PC games today, depends of the game. 
 
-If you desire, contact me on LinkedIn or by e-mail.
-
-
+If you desire, contact me on LinkedIn or by e-mail. -->
 
 
 <!--
